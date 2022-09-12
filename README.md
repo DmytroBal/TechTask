@@ -1,2 +1,2 @@
 # TechTask
-Mobile phone storage protocol
+Implement mobile phone storage protocol
